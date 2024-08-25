@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_filetask",
+  "version": "1.0.0",
+  "description": "api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "stream": "^0.0.3"
+  }
+}
